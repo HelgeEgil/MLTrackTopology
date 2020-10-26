@@ -1,7 +1,8 @@
 This projects aims at improving the simple track identification algorithms defined in the Bergen pCT project:
-* https://www.sciencedirect.com/science/article/pii/S0168900217301882
-* https://www.sciencedirect.com/science/article/abs/pii/S1120179719301358
-* https://www.frontiersin.org/articles/10.3389/fphy.2020.568243/abstract
+* [Proton tracking in a high-granularity Digital Tracking Calorimeter for proton CT purposes](https://www.sciencedirect.com/science/article/pii/S0168900217301882)
+* [Design optimization of a pixel-based range telescope for proton computed tomography](https://www.sciencedirect.com/science/article/abs/pii/S1120179719301358)
+* [A High-Granularity Digital Tracking Calorimeter Optimized for Proton CT](https://www.frontiersin.org/articles/10.3389/fphy.2020.568243/abstract)
+* Helium Radiography with a Digital Tracking Calorimeter—a Monte Carlo Study for Secondary Track Rejection (submitted)
 
 Training data with more statistics (made using the code at github.com/HelgeEgil/focal) is available for download at https://bit.ly/3jknxbD; put the two files in the Data subfolder. The layout of the files is the following
 
