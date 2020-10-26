@@ -5,7 +5,7 @@ from matplotlib import patches
 from matplotlib.collections import LineCollection
 import seaborn as sns
 
-data = pd.read_csv("Data/input_helium_resampled.csv", sep=";", nrows=400000, skiprows=range(1, 0 * 400000))
+data = pd.read_csv("Data/input_helium_resampled_10k.csv", sep=";", nrows=400000, skiprows=range(1, 0 * 400000))
 
 data = data.sample(frac=1)
 
