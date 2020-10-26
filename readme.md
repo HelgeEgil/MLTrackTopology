@@ -10,7 +10,7 @@ The layout of the input files (made using the code at github.com/HelgeEgil/focal
 --------|----|----|----|----|---
 de/dz track (idx = layer number) | Track contains electron | Track contains proton | Track contains helium | Track contains heavier ions | Track has Bragg peak
 
-Training data with more statistics is available for download at https://bit.ly/3jknxbD; put the two files in the Data/ subfolder.
+Training data with more statistics [is available for download](https://bit.ly/3jknxbD); put the two files in the Data/ subfolder.
 
 Examples of helium tracks, sorted by truth vector contents:
 ![Helium example tracks](/Figures/heliumExamples.jpg)
